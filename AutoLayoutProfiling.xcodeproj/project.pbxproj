@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D258909909020A6E718C05EE /* ALPRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D258913825B7CECAD62CB1BF /* ALPRootViewController.m */; };
+		D258917CB0AE34119500C90E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D2589805125DB7605F48649A /* README.md */; };
 		D25891BB481D1D450AA40E3F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D2589B233D94E96F10220BF9 /* .gitignore */; };
 		D25891F6869AFDD89016C5AD /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D2589A02F86105EB1DC73077 /* Default-568h@2x.png */; };
 		D25892C64DD16A94809BA678 /* ALPNonAutoLayoutView.m in Sources */ = {isa = PBXBuildFile; fileRef = D25896F887B619D29A992910 /* ALPNonAutoLayoutView.m */; };
@@ -37,6 +38,7 @@
 		D258967B56A2F5C8B7D94DFE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D25896F8602A32204D10756F /* ALPNonAutoLayoutView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALPNonAutoLayoutView.h; sourceTree = "<group>"; };
 		D25896F887B619D29A992910 /* ALPNonAutoLayoutView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALPNonAutoLayoutView.m; sourceTree = "<group>"; };
+		D2589805125DB7605F48649A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = file.md; path = README.md; sourceTree = "<group>"; };
 		D25898F4F1F3ACC15F2F66D1 /* ALPAutoLayoutTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALPAutoLayoutTypes.h; sourceTree = "<group>"; };
 		D258990F5C698F2B61C29733 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		D25899546FA30E4DBD42CCC3 /* ALPAutoLayoutView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALPAutoLayoutView.h; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				D258930AB266B2D6F6A671B9 /* Frameworks */,
 				D25890E6E8D1716CC45ECF19 /* AutoLayoutProfiling */,
 				D2589B233D94E96F10220BF9 /* .gitignore */,
+				D2589805125DB7605F48649A /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -179,6 +182,7 @@
 				D258949CB070982C6567AD84 /* Default@2x.png in Resources */,
 				D25891F6869AFDD89016C5AD /* Default-568h@2x.png in Resources */,
 				D25891BB481D1D450AA40E3F /* .gitignore in Resources */,
+				D258917CB0AE34119500C90E /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
